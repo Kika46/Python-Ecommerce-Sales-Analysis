@@ -7,7 +7,6 @@ The analysis of the merged annual sales data established the core metrics for 20
 Metric	Result
 Total Annual Revenue (2019)	$34.49 Million
 
-Export to Sheets
 📈 Time-Based & Geographic Insights
 The project identified the optimal times and locations for the business:
 
@@ -16,7 +15,6 @@ Best Month	December	$4.61 Million	Suggests a strong holiday/year-end spending ru
 Best Time of Day	7:00 PM (19:00)	14,470 Units	The primary post-work shopping peak, ideal for targeted online advertising campaigns.
 Best City	San Francisco	$8.26 Million	The highest-value geographic market, warrants focused expansion and resource allocation.
 
-Export to Sheets
 💻 Product Performance
 The analysis provides clarity on which products drive the most revenue versus which drive the highest volume:
 
